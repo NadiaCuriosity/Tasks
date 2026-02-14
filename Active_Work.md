@@ -36,8 +36,19 @@ tags: [tasks, active-work]
 ### Turner Hopkins
 - [ ] Revert with small group cohort proposal #due:2026-02-26
 
+### Animals Like Us
+- [ ] Follow up proposal #due:2026-02-21
+
+### Scottie
+- [ ] Week 3 homework delivered #due:2026-02-16
+- [ ] 1:1 agenda #due:2026-02-20
+
+### Real Clean
+- [ ] Website #due:2026-02-15
+
 ### Mesh
 - [ ] Waiting on decision
+- [ ] Follow up with Prav #due:2026-02-21
 
 ### Fetch
 - [ ] Relay.app build and share
