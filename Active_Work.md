@@ -1,7 +1,7 @@
 ---
 type: task-register
 status: active
-date: 2026-02-15
+date: 2026-02-17
 project: personal-ops
 tags: [tasks, active-work]
 ---
@@ -14,18 +14,66 @@ tags: [tasks, active-work]
 
 ---
 
-## Tier A (Priority)
+## Active Clients
 
 ### Solis
 - [ ] Find common use cases
 - [ ] Upskill on M365
 
-### Destination Queenstown
-- [ ] DQ Resources (4 hours)
+### Real Clean
+- [ ] Website #due:2026-02-15
+
+### Destination Queenstown (Workshop)
+- [ ] DQ Resources (4 hours) - privacy, hallucinations (keep short), practical stuff (bulk), tourism business applications
+- [ ] Workshop Development
+
+### Scottie
+- [ ] Week 3 homework delivered #due:2026-02-16
+- [ ] 1:1 agenda #due:2026-02-20
 
 ### TAA
 - [ ] Statement of work
 - [ ] Plan for next sprint
+
+### SAANZ
+- [ ] Keynote (March)
+- [ ] Book flights and travel #due:2026-02-21
+
+### Mackenzie Tourism
+- [ ] May Workshop
+
+---
+
+## Pipeline: Proposals Sent
+
+### Animals Like Us
+- [ ] Follow up (they're coming back to us) #due:2026-03-02
+
+### Mesh
+- [ ] Waiting on decision
+- [ ] Follow up with Prav #due:2026-02-21
+
+### Top 10
+- [ ] Follow up on proposal
+
+### Highland
+- [ ] Follow up on proposal
+
+### Kate Smith
+- [ ] Follow up on proposal
+
+### Wānaka Chamber
+- [ ] Follow up on proposal
+
+### Destination Queenstown (AI Operations Pilot)
+- [ ] Follow up on proposal
+
+---
+
+## Pipeline: Warm Leads
+
+### Turner Hopkins
+- [ ] Revert with small group cohort proposal #due:2026-02-26
 
 ### Sugar Bowl
 - [ ] Book time in calendar with B (verbalise, don't document)
@@ -33,22 +81,11 @@ tags: [tasks, active-work]
 - [ ] Unpack the process from Granola
 - [ ] Choose 1 team
 
-### Turner Hopkins
-- [ ] Revert with small group cohort proposal #due:2026-02-26
+### Bridget
+- [ ] Coaching 1-on-1 proposal
 
-### Animals Like Us
-- [ ] Follow up proposal #due:2026-02-21
-
-### Scottie
-- [ ] Week 3 homework delivered #due:2026-02-16
-- [ ] 1:1 agenda #due:2026-02-20
-
-### Real Clean
-- [ ] Website #due:2026-02-15
-
-### Mesh
-- [ ] Waiting on decision
-- [ ] Follow up with Prav #due:2026-02-21
+### Talent Solutions
+- [ ] Follow up (warm lead)
 
 ### Fetch
 - [ ] Relay.app build and share
@@ -59,31 +96,15 @@ tags: [tasks, active-work]
 
 ---
 
-## Tier B
+## Pipeline: Cold / Early
 
-### Destination QT
-- [ ] Workshop Development
-
-### Wānaka Chamber
-- [ ] AI Lab
-
-### SAANZ
-- [ ] Keynote
-
-### Mackenzie Tourism
-- [ ] May Workshop
-
-### Mons
-- [ ] Chase invoice
+- [ ] Phoenix
+- [ ] NZTO coaching or workshops
+- [ ] Mons
 
 ---
 
 ## Curiosity Tasks
-
-### Sales / Leads
-- [ ] Phoenix
-- [ ] Bridget coaching 1-on-1 proposal
-- [ ] NZTO coaching or workshops
 
 ### Business Build
 - [ ] Add symlink for Claude skills
@@ -102,6 +123,10 @@ tags: [tasks, active-work]
 - [ ] Playbook portfolio (1 per week)
 
 ---
+
+## Done (week of 17/02/2026)
+
+- [x] Follow up proposal (Animals Like Us)
 
 ## Done (week of 10/02/2026)
 
