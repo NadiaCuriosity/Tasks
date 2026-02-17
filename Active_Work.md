@@ -17,8 +17,17 @@ tags: [tasks, active-work]
 ## Active Clients
 
 ### Solis
-- [ ] Find common use cases
-- [ ] Upskill on M365
+Full task register: [[Solis Task Register]]
+- [ ] Produce client-facing Blueprint (from working version) #due:2026-02-21
+- [ ] Get Blueprint sign-off from Scottie and Claire #due:2026-02-21
+- [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-02-21
+- [ ] Confirm Copilot licence list with Claire/Chris #due:2026-02-21
+- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-21
+- [ ] Align with Scottie on "pathway" messaging #due:2026-02-21
+- [ ] Share Baseline Assessment Report v2 with Claire and Scottie #due:2026-02-19
+- [ ] Create Workshop 1 materials (3 groups, differentiated) #due:2026-02-24
+- [ ] Upskill on M365 Copilot (ongoing)
+- [ ] Recommend Claude Code subscription for Rohan to Scottie #due:2026-02-21
 
 ### Real Clean
 - [ ] Website #due:2026-02-15
@@ -110,6 +119,8 @@ tags: [tasks, active-work]
 - [ ] Add symlink for Claude skills
 - [ ] Claude Code development
 - [ ] Mailer Lite setup
+- [ ] OneDrive migration: move business files from personal to work OneDrive. Plan and scripts ready. See [[migration_plan|Migration Plan]] (`OneDrive - Curiosity\migration_plan.md`)
+- [ ] Downloads cleanup: sort 1,354 files into GDrive (work/personal). Phase 1 (junk deletion) done, Phase 2 ready. Plan: `C:\Users\nadia\Downloads\_CLEANUP_PLAN.md` | Script: `C:\Users\nadia\Downloads\cleanup_sort.ps1` | Resume prompt in plan file.
 
 ### Backlog
 - [ ] Evals GPT complete (test)
