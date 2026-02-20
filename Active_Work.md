@@ -21,8 +21,8 @@ Full task register: [[Solis Task Register]]
 - [ ] Produce client-facing Blueprint (from working version) #due:2026-02-21
 - [ ] Get Blueprint sign-off from Scottie and Claire #due:2026-02-21
 - [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-02-21
-- [ ] Confirm Copilot licence list with Claire/Chris #due:2026-02-21
-- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-21
+- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-21 ✉️ sent 18/02
+- [ ] Confirm protected time messaging: Scottie and Claire to confirm workshops are not optional #due:2026-02-28
 - [ ] Align with Scottie on "pathway" messaging #due:2026-02-21
 - [ ] Share Baseline Assessment Report v2 with Claire and Scottie #due:2026-02-19
 - [ ] Create Workshop 1 materials (3 groups, differentiated) #due:2026-02-24
@@ -30,7 +30,13 @@ Full task register: [[Solis Task Register]]
 - [ ] Recommend Claude Code subscription for Rohan to Scottie #due:2026-02-21
 
 ### Real Clean
-- [ ] Website #due:2026-02-15
+- [ ] CR-001: Add Location field to feedback form + Notion/Relay.app mapping #due:2026-02-26
+- [ ] Set up CR Register in Notion, enter initial 7 items #due:2026-02-21
+- [ ] Share GOOD framework guide with Todd #due:2026-02-21
+- [ ] Reply to Todd's email (draft ready) #due:2026-02-20
+- [ ] Invite Romy as GitHub collaborator #due:2026-02-26
+- [ ] Website copy rework #due:2026-03-07
+- [ ] CR-002: Scope feedback evaluation workflow with Todd (15 min call) #due:2026-03-07
 
 ### Destination Queenstown (Workshop)
 - [ ] DQ Resources (4 hours) - privacy, hallucinations (keep short), practical stuff (bulk), tourism business applications
@@ -48,6 +54,10 @@ Full task register: [[Solis Task Register]]
 - [ ] Keynote (March)
 - [ ] Book flights and travel #due:2026-02-21
 
+### Highlands
+- [ ] Send follow-up email from sales meeting (19/02) #due:2026-02-23
+- [ ] Follow up on contract #due:2026-02-27
+
 ### Mackenzie Tourism
 - [ ] May Workshop
 
@@ -55,21 +65,12 @@ Full task register: [[Solis Task Register]]
 
 ## Pipeline: Proposals Sent
 
-### Animals Like Us
-- [ ] Follow up (they're coming back to us) #due:2026-03-02
-
 ### Mesh
 - [ ] Waiting on decision
 - [ ] Follow up with Prav #due:2026-02-21
 
 ### Top 10
-- [ ] Follow up on proposal
-
-### Highland
-- [ ] Follow up on proposal
-
-### Kate Smith
-- [ ] Follow up on proposal
+- [ ] Follow up on proposal #due:2026-02-27
 
 ### Wānaka Chamber
 - [ ] Follow up on proposal
@@ -111,13 +112,33 @@ Full task register: [[Solis Task Register]]
 - [ ] NZTO coaching or workshops
 - [ ] Mons
 
+### Startup Lakes (Queenstown)
+- [ ] Opportunity meeting with Alison (calendar link sent 20/02) #due:2026-02-27
+
+---
+
+## Waiting / On Hold
+
+- [ ] Kate Smith coaching — proposal sent, revisit October #follow-up:2026-10-01
+- [ ] Animals Like Us — proposal sent, they're coming back to us, check in mid-March #follow-up:2026-03-15
+
+---
+
+## Recurring
+
+- [ ] Uplifting AI newsletter #every:monday
+
 ---
 
 ## Curiosity Tasks
 
 ### Business Build
+- [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-02-27
 - [ ] Add symlink for Claude skills
 - [ ] Claude Code development
+- [ ] Build autonomous client onboarding pipeline (single prompt → parallel sub-agents creating folder, discovery analysis, engagement strategy, proposal). Reference: `99_System/daily_tips.md` and `/new-client` skill
+- [ ] Build self-correcting newsletter production chain (draft → fact-check → tone review → output, all in one pipeline). Codify SOP as structured checklist, use Task agents for parallel verification
+- [ ] Build parallel proposal generation workflow (3 variants in parallel, scored against quality checklist, best selected automatically). Create proposal-quality checklist first
 - [ ] Mailer Lite setup
 - [ ] OneDrive migration: move business files from personal to work OneDrive. Plan and scripts ready. See [[migration_plan|Migration Plan]] (`OneDrive - Curiosity\migration_plan.md`)
 - [ ] Downloads cleanup: sort 1,354 files into GDrive (work/personal). Phase 1 (junk deletion) done, Phase 2 ready. Plan: `C:\Users\nadia\Downloads\_CLEANUP_PLAN.md` | Script: `C:\Users\nadia\Downloads\cleanup_sort.ps1` | Resume prompt in plan file.
@@ -138,6 +159,10 @@ Full task register: [[Solis Task Register]]
 ## Done (week of 17/02/2026)
 
 - [x] Follow up proposal (Animals Like Us)
+- [x] Send programme prep email to Chris & Claire (Solis)
+- [x] Confirm Copilot licence list (removed, not needed pre-workshops)
+- [x] Chase Nisse survey response (Solis)
+- [x] Get DISC profiles from Claire (Solis)
 
 ## Done (week of 10/02/2026)
 
