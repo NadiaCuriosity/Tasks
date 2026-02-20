@@ -47,8 +47,9 @@ Full task register: [[Solis Task Register]]
 - [ ] 1:1 agenda #due:2026-02-20
 
 ### TAA
-- [ ] Statement of work
-- [ ] Plan for next sprint
+- [ ] Create client project folder in Client Projects-CC (statement of work, previous process maps, previous proposal) #due:2026-02-27
+- [ ] Statement of work #due:2026-02-27
+- [ ] Plan for next sprint #due:2026-02-27
 
 ### SAANZ
 - [ ] Keynote (March)
