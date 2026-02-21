@@ -59,6 +59,10 @@ Full task register: [[Solis Task Register]]
 - [ ] Send follow-up email from sales meeting (19/02) #due:2026-02-23
 - [ ] Follow up on contract #due:2026-02-27
 
+### Build Lab (Doc Gen)
+- [ ] Complete Week 2 homework: SOP document, workflow JSON, Mermaid diagram, reflection questions #due:2026-02-22
+- [ ] Complete Week 3 homework: build and test two Specialist Agents, system instructions, test documentation, reflection questions #due:2026-02-22
+
 ### Mackenzie Tourism
 - [ ] May Workshop
 
@@ -134,9 +138,16 @@ Full task register: [[Solis Task Register]]
 ## Curiosity Tasks
 
 ### Business Build
+- [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-02-22
 - [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-02-27
 - [ ] Add symlink for Claude skills
 - [ ] Claude Code development
+	- [ ] Skill: Chat Against Transcript (interrogate a transcript conversationally)
+	- [ ] Skill: Critique the Article (structured critique of articles/blog posts)
+	- [ ] Skill: Interesting Podcast or Article (extract and summarise key insights)
+	- [ ] Skill: 10 Minute Tasks (generate quick actionable tasks from content)
+	- [ ] Skill: How-To from Article or Podcast (turn content into step-by-step guides)
+	- [ ] Skill: Myth Checker (identify and debunk common myths in content)
 - [ ] Build autonomous client onboarding pipeline (single prompt → parallel sub-agents creating folder, discovery analysis, engagement strategy, proposal). Reference: `99_System/daily_tips.md` and `/new-client` skill
 - [ ] Build self-correcting newsletter production chain (draft → fact-check → tone review → output, all in one pipeline). Codify SOP as structured checklist, use Task agents for parallel verification
 - [ ] Build parallel proposal generation workflow (3 variants in parallel, scored against quality checklist, best selected automatically). Create proposal-quality checklist first
