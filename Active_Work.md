@@ -1,7 +1,7 @@
 ---
 type: task-register
 status: active
-date: 2026-02-17
+date: 2026-02-26
 project: personal-ops
 tags: [tasks, active-work]
 ---
@@ -9,59 +9,53 @@ tags: [tasks, active-work]
 ## Loose / Quick
 
 - [ ] LinkedIn Julian
-- [ ] Amaka Wanaka
 - [ ] Howie's contact inbox
+- [ ] Find accommodation for NZ AI Summit (Wellington, 8-9 Sep) #due:2026-03-01
 
 ---
 
 ## Active Clients
 
-### Solis
+### Solis ⚡ PRIORITY — CATCH UP THIS WEEK
 Full task register: [[Solis Task Register]]
-- [ ] Produce client-facing Blueprint (from working version) #due:2026-02-21
-- [ ] Get Blueprint sign-off from Scottie and Claire #due:2026-02-21
-- [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-02-21
-- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-21 ✉️ sent 18/02
+- [ ] Share Baseline Assessment Report v2 with Claire and Scottie #due:2026-02-25 ⚠️ overdue
+- [ ] Produce client-facing Blueprint (from working version) #due:2026-02-26
+- [ ] Get Blueprint sign-off from Scottie and Claire #due:2026-02-27
+- [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-02-26
+- [ ] Create Workshop 1 materials (3 groups, differentiated) #due:2026-02-28
+- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-28 ✉️ sent 18/02
 - [ ] Confirm protected time messaging: Scottie and Claire to confirm workshops are not optional #due:2026-02-28
-- [ ] Align with Scottie on "pathway" messaging #due:2026-02-21
-- [ ] Share Baseline Assessment Report v2 with Claire and Scottie #due:2026-02-19
-- [ ] Create Workshop 1 materials (3 groups, differentiated) #due:2026-02-24
+- [ ] Align with Scottie on "pathway" messaging #due:2026-03-03
+- [ ] Recommend Claude Code subscription for Rohan to Scottie #due:2026-03-03
 - [ ] Upskill on M365 Copilot (ongoing)
-- [ ] Recommend Claude Code subscription for Rohan to Scottie #due:2026-02-21
 
 ### Real Clean
-- [ ] CR-001: Add Location field to feedback form + Notion/Relay.app mapping #due:2026-02-26
-- [ ] Set up CR Register in Notion, enter initial 7 items #due:2026-02-21
-- [ ] Share GOOD framework guide with Todd #due:2026-02-21
-- [ ] Reply to Todd's email (draft ready) #due:2026-02-20
-- [ ] Invite Romy as GitHub collaborator #due:2026-02-26
-- [ ] Website copy rework #due:2026-03-07
-- [ ] CR-002: Scope feedback evaluation workflow with Todd (15 min call) #due:2026-03-07
+- **WDC Dashboard (Steps 8-10)** — plan: `~/.claude/plans/whimsical-splashing-sky.md`
+	- [ ] Create relay.app playbook: Notion feedback DB → Google Sheet sync #due:2026-02-28
+	- [ ] Multi-client micro-refactors (dynamic client name from CONFIG) #due:2026-02-28
+	- [ ] Responsive check + deploy + end-to-end test #due:2026-02-28
 
 ### Destination Queenstown (Workshop)
 - [ ] DQ Resources (4 hours) - privacy, hallucinations (keep short), practical stuff (bulk), tourism business applications
 - [ ] Workshop Development
 
-### Scottie
-- [ ] Week 3 homework delivered #due:2026-02-16
-- [ ] 1:1 agenda #due:2026-02-20
+### TAA — Sprint target: April (weeks of 6 & 13 Apr)
+- [ ] Create client project folder in Client Projects-CC (statement of work, previous process maps, previous proposal) #due:2026-03-14
+- [ ] Statement of work #due:2026-03-21
+- [ ] Plan for next sprint (target: 6–20 April, ~20 hrs) #due:2026-03-21
 
-### TAA
-- [ ] Create client project folder in Client Projects-CC (statement of work, previous process maps, previous proposal) #due:2026-02-27
-- [ ] Statement of work #due:2026-02-27
-- [ ] Plan for next sprint #due:2026-02-27
-
-### SAANZ
-- [ ] Keynote (March)
-- [ ] Book flights and travel #due:2026-02-21
+### SAANZ — Keynote week of 24 Mar
+- [ ] Book flights and travel #due:2026-02-26 ⚠️ overdue
+- [ ] Start keynote prep (30-min blocks, don't leave it) #due:2026-03-03
+- [ ] Keynote delivery (late March)
 
 ### Highlands
-- [ ] Send follow-up email from sales meeting (19/02) #due:2026-02-23
-- [ ] Follow up on contract #due:2026-02-27
+- [ ] Review Darren's timeline, costings & Master Checklist (attached in email 22/02) #due:2026-02-25
+- [ ] Follow up on contract #due:2026-02-28
 
-### Build Lab (Doc Gen)
-- [ ] Complete Week 2 homework: SOP document, workflow JSON, Mermaid diagram, reflection questions #due:2026-02-22
-- [ ] Complete Week 3 homework: build and test two Specialist Agents, system instructions, test documentation, reflection questions #due:2026-02-22
+### Build Lab (Doc Gen) — 8 hrs/week protected learning block
+- [ ] Complete Week 2 homework: SOP document, workflow JSON, Mermaid diagram, reflection questions #due:2026-03-07
+- [ ] Complete Week 3 homework: build and test two Specialist Agents, system instructions, test documentation, reflection questions #due:2026-03-07
 
 ### Mackenzie Tourism
 - [ ] May Workshop
@@ -109,6 +103,14 @@ Full task register: [[Solis Task Register]]
 - [ ] Outline playbooks
 - [ ] Share the Actions schema
 
+### Queenstown Airport
+- [ ] Initial meeting (Queenstown) #due:2026-03-12
+- Spec: `99_System/Context_Library/project_specs/queenstown-airport.md`
+
+### Ngāi Tahu Tourism
+- [ ] Initial meeting (Queenstown) #due:2026-03-12
+- Spec: `99_System/Context_Library/project_specs/ngai-tahu-tourism.md`
+
 ---
 
 ## Pipeline: Cold / Early
@@ -137,9 +139,9 @@ Full task register: [[Solis Task Register]]
 
 ## Curiosity Tasks
 
-### Business Build
-- [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-02-22
-- [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-02-27
+### Business Build — DEFERRED TO APRIL
+- [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-04-07
+- [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-04-07
 - [ ] Add symlink for Claude skills
 - [ ] Claude Code development
 	- [ ] Skill: Chat Against Transcript (interrogate a transcript conversationally)
@@ -167,6 +169,31 @@ Full task register: [[Solis Task Register]]
 - [ ] Playbook portfolio (1 per week)
 
 ---
+
+## Done (week of 23/02/2026)
+
+- [x] Amaka Wanaka (Loose/Quick)
+- [x] CR-001: Add Location field to feedback form + Notion/Relay.app mapping (Real Clean)
+- [x] Set up CR Register in Notion, enter initial 7 items (Real Clean)
+- [x] Share GOOD framework guide with Todd (Real Clean)
+- [x] Reply to Todd's email (draft ready) (Real Clean)
+- [x] Invite Romy as GitHub collaborator (Real Clean)
+- [x] Website copy rework (Real Clean)
+- [x] CR-002: Scope feedback evaluation workflow with Todd (15 min call) (Real Clean)
+- [x] Okayweneed to do some work (Real Clean)
+- [x] Create Google Sheet "WDC Feedback Export" + publish as CSV (Real Clean)
+- [x] Add feedbackCsvUrl to config.js + feedback data methods to data.js (Real Clean)
+- [x] Wire feedback fetch into auth.js startup (Promise.allSettled) (Real Clean)
+- [x] Build feedback history view (history.js: filters, cards, empty/error states) (Real Clean)
+- [x] Wire unresolved feedback into overview.js (replace "No open issues" placeholder) (Real Clean)
+- [x] Week 3 homework delivered (Scottie)
+- [x] 1:1 agenda (Scottie)
+- [x] Send follow-up email from sales meeting (19/02) (Highlands)
+- [x] Reply to Shannon re employee check-in process — clarify scope (new or existing engagement) (Highlands)
+- [x] Discuss mid-March start with Darren (Highlands)
+- [x] Review Phase 2 pricing before signing (Highlands)
+- [x] Reply to Wayne (propose w/c 9 March meeting) (Queenstown Airport)
+- [x] Reply to Rosie (propose w/c 9 March meeting) (Ngāi Tahu Tourism)
 
 ## Done (week of 17/02/2026)
 
