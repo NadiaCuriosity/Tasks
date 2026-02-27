@@ -21,13 +21,21 @@ Full task register: [[Solis Task Register]]
 - [ ] Share Baseline Assessment Report v2 with Claire and Scottie #due:2026-02-25 ⚠️ overdue
 - [ ] Produce client-facing Blueprint (from working version) #due:2026-02-26
 - [ ] Get Blueprint sign-off from Scottie and Claire #due:2026-02-27
-- [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-02-26
-- [ ] Create Workshop 1 materials (3 groups, differentiated) #due:2026-02-28
-- [ ] Ask Chris/Claire re Copilot privacy settings (critical for personal use cases) #due:2026-02-28 ✉️ sent 18/02
+- [ ] Send timeline to Claire #due:2026-02-27
+- [ ] Send Rowan N8N video resources (CC Claire, Chris) #due:2026-03-03
+- [ ] Book 30-min timeline confirmation meeting (Nadia + Claire, possibly Scottie + Chris) #due:2026-03-05
+- [ ] Create programme deck: session details, outcomes, timeline (replaces separate workshop materials) #due:2026-03-07
+- [ ] Finalise session outlines and button up content for each session #due:2026-03-07
+- [ ] Schedule Workshop 1 dates for all three groups (confirm with Claire) #due:2026-03-05
+- [ ] Copilot privacy/permissions: clarify with Chris. Include transcript access, file permissions, admin visibility, boardroom computer risk. Full audit before launch. #due:2026-03-05 ✉️ sent 18/02
+- [ ] Three-way meeting (Nadia, Claire, Chris): Copilot vs Claude for heavy Excel users (logistics, Nisse). Platform decision before Applied sessions. #due:2026-03-10
 - [ ] Confirm protected time messaging: Scottie and Claire to confirm workshops are not optional #due:2026-02-28
 - [ ] Align with Scottie on "pathway" messaging #due:2026-03-03
-- [ ] Recommend Claude Code subscription for Rohan to Scottie #due:2026-03-03
+- [ ] Recommend Claude Code subscriptions for Rowan (coding) and Scottie (files/thinking) #due:2026-03-03
+- [ ] Start keeping backlog of out-of-scope opportunities (categorised: rule-based automation, AI automation, AI assistant) #due:2026-03-03
 - [ ] Upskill on M365 Copilot (ongoing)
+- [ ] Set up Solis project folder structure (if not already done) #due:2026-03-03
+- [ ] Learn Microsoft Teams delivery basics (presenting, breakout rooms, screen sharing) #due:2026-03-05
 
 ### Real Clean
 - **WDC Dashboard (Steps 8-10)** — plan: `~/.claude/plans/whimsical-splashing-sky.md`
@@ -45,13 +53,15 @@ Full task register: [[Solis Task Register]]
 - [ ] Plan for next sprint (target: 6–20 April, ~20 hrs) #due:2026-03-21
 
 ### SAANZ — Keynote week of 24 Mar
-- [ ] Book flights and travel #due:2026-02-26 ⚠️ overdue
+- [x] Book flights and travel #due:2026-02-26 ⚠️ overdue
 - [ ] Start keynote prep (30-min blocks, don't leave it) #due:2026-03-03
 - [ ] Keynote delivery (late March)
 
-### Highlands
+### Highlands — Phase 1 signed ✅
 - [ ] Review Darren's timeline, costings & Master Checklist (attached in email 22/02) #due:2026-02-25
-- [ ] Follow up on contract #due:2026-02-28
+- [x] Follow up on contract #due:2026-02-28
+- [ ] Create client project folder and kickoff plan #due:2026-03-03
+- [ ] Set expectations and scope for Phase 1 delivery #due:2026-03-03
 
 ### Build Lab (Doc Gen) — 8 hrs/week protected learning block
 - [ ] Complete Week 2 homework: SOP document, workflow JSON, Mermaid diagram, reflection questions #due:2026-03-07
