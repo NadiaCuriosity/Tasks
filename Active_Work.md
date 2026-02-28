@@ -158,6 +158,8 @@ Full task register: [[Solis Task Register]]
 - [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-04-07
 - [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-04-07
 - [ ] Add symlink for Claude skills
+- [ ] Audit existing skills against actual usage data (which get used, which gather dust) before building new skills
+- [ ] Add structured elicitation steps to key skills (/proposal, /process-mapping — replicate /process-to-playbook pattern)
 - [ ] Claude Code development
 	- [ ] Skill: Chat Against Transcript (interrogate a transcript conversationally)
 	- [ ] Skill: Critique the Article (structured critique of articles/blog posts)
