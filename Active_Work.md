@@ -150,6 +150,10 @@ Full task register: [[Solis Task Register]]
 ## Curiosity Tasks
 
 ### Business Build — DEFERRED TO APRIL
+- [ ] Add active client roster reference to project CLAUDE.md (Architecture section, link to project specs, rule to check spec before client work) #due:2026-03-02
+- [ ] Add Proposal Rules section to global CLAUDE.md (structure, pricing model, banned phrases, required sections, outcome framing) #due:2026-03-03
+- [ ] Add Newsletter section to project CLAUDE.md (SOP location, drafts folder, /uplifting-ai skill reference, fact-check constraints) #due:2026-03-04
+- [ ] Replace Common Requests with Common Workflows in global CLAUDE.md (proposal, transcript, newsletter, new client sequences with step-by-step) #due:2026-03-05
 - [ ] Run CLAUDE.md interview (client archetypes + workflows) and integrate into CLAUDE.md files #due:2026-03-07
 - [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-04-07
 - [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-04-07
