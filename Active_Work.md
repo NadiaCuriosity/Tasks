@@ -150,6 +150,7 @@ Full task register: [[Solis Task Register]]
 ## Curiosity Tasks
 
 ### Business Build — DEFERRED TO APRIL
+- [ ] Run CLAUDE.md interview (client archetypes + workflows) and integrate into CLAUDE.md files #due:2026-03-07
 - [ ] Read Janette Roush PARA 2.0 guide and update system accordingly (`30_Resources/Claude Code Info/Janette Roush Para 2.0.md`) #due:2026-04-07
 - [ ] Document infographic style guide (colours, fonts, layout patterns, tone) so it's reusable across projects #due:2026-04-07
 - [ ] Add symlink for Claude skills
