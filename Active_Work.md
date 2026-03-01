@@ -1,7 +1,7 @@
 ---
 type: task-register
 status: active
-date: 2026-02-26
+date: 2026-03-01
 project: personal-ops
 tags: [tasks, active-work]
 ---
@@ -53,13 +53,11 @@ Full task register: [[Solis Task Register]]
 - [ ] Plan for next sprint (target: 6–20 April, ~20 hrs) #due:2026-03-21
 
 ### SAANZ — Keynote week of 24 Mar
-- [x] Book flights and travel #due:2026-02-26 ⚠️ overdue
 - [ ] Start keynote prep (30-min blocks, don't leave it) #due:2026-03-03
 - [ ] Keynote delivery (late March)
 
 ### Highlands — Phase 1 signed ✅
 - [ ] Review Darren's timeline, costings & Master Checklist (attached in email 22/02) #due:2026-02-25
-- [x] Follow up on contract #due:2026-02-28
 - [ ] Create client project folder and kickoff plan #due:2026-03-03
 - [ ] Set expectations and scope for Phase 1 delivery #due:2026-03-03
 
@@ -189,6 +187,8 @@ Full task register: [[Solis Task Register]]
 
 ## Done (week of 23/02/2026)
 
+- [x] Book flights and travel (SAANZ)
+- [x] Follow up on contract (Highlands)
 - [x] Amaka Wanaka (Loose/Quick)
 - [x] CR-001: Add Location field to feedback form + Notion/Relay.app mapping (Real Clean)
 - [x] Set up CR Register in Notion, enter initial 7 items (Real Clean)
