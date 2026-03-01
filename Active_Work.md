@@ -45,7 +45,7 @@ Full task register: [[Solis Task Register]]
 
 ### Destination Queenstown (Workshop)
 - [ ] DQ Resources (4 hours) - privacy, hallucinations (keep short), practical stuff (bulk), tourism business applications
-- [ ] Workshop Development
+- [ ] Workshop Development #due:2026-03-03
 
 ### TAA — Sprint target: April (weeks of 6 & 13 Apr)
 - [ ] Create client project folder in Client Projects-CC (statement of work, previous process maps, previous proposal) #due:2026-03-14
@@ -54,7 +54,8 @@ Full task register: [[Solis Task Register]]
 
 ### SAANZ — Keynote week of 24 Mar
 - [ ] Start keynote prep (30-min blocks, don't leave it) #due:2026-03-03
-- [ ] Keynote delivery (late March)
+- [ ] Send SAANZ survey #due:2026-03-06
+- [ ] Keynote delivery #due:2026-03-25
 
 ### Highlands — Phase 1 signed ✅
 - [ ] Review Darren's timeline, costings & Master Checklist (attached in email 22/02) #due:2026-02-25
